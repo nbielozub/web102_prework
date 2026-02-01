@@ -22,13 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![alt text](<Kapture 2026-02-01 at 11.06.03.gif>)
-
-GIF created with Kap in the files of the project
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+<img src='https://youtu.be/w95fuoKqqFY' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
